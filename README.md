@@ -1,5 +1,6 @@
 
 Omegle Alternatives Chrome Extension
+
 Overview
 The Omegle Alternatives Chrome Extension is a user-friendly browser add-on designed to enhance your online chatting experience by providing quick and easy access to a curated list of alternative random chat sites similar to Omegle. Whether you're looking for a more niche community, better moderation, different features, or just want to explore what else is out there, this extension has you covered.
 
